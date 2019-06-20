@@ -6,11 +6,10 @@ This is a concept of fetching a user's cinema show details like venue, movie, da
 
 **Please click the image below to enlarge.**
 
-<img src="Screenshot/Screenshot1.jpg" height="600" width="300" hspace="40"><img src="Screenshot/Screenshot2.jpg" height="600" width="300" hspace="40">
+<img src="Screenshots/Screenshot_20190620_175339_com.vimalinc.bookmovieappui.jpg" height="600" width="300" hspace="40"><img src="Screenshots/Screenshot_20190620_175342_com.vimalinc.bookmovieappui.jpg" height="600" width="300" hspace="40">
 
-<img src="Screenshot/Screenshot3.jpg" height="600" width="300" hspace="40"><img src="Screenshot/Screenshot4.jpg" height="600" width="300" hspace="40">
+<img src="Screenshots/Screenshot_20190620_175346_com.vimalinc.bookmovieappui.jpg" height="600" width="300" hspace="40">
 
-<img src="Screenshot/Screenshot5.jpg" height="600" width="300" hspace="40">
 ## Contributing
 
 Please fork this repository and contribute back using
